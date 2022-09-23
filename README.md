@@ -1,6 +1,6 @@
-- oi eu sou @Dudinharamos
--estou interessada em estudar
-- estou aprendendo no momento html
+eyeglasses: oi eu sou @Dudinharamos
+-eyeglasses:estou interessada em estudar
+-:gem: estou aprendendo no momento html
 -
 
 <!---
